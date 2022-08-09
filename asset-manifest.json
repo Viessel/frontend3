@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Viessel/frontend3/tree/Clase04/primer-react-app/static/css/main.073c9b0a.css",
-    "main.js": "/Viessel/frontend3/tree/Clase04/primer-react-app/static/js/main.4dd281c6.js",
-    "static/js/787.735ed4fb.chunk.js": "/Viessel/frontend3/tree/Clase04/primer-react-app/static/js/787.735ed4fb.chunk.js",
-    "static/media/satisfied.png": "/Viessel/frontend3/tree/Clase04/primer-react-app/static/media/satisfied.dfd3415502656a02a2ff.png",
-    "index.html": "/Viessel/frontend3/tree/Clase04/primer-react-app/index.html",
-    "main.073c9b0a.css.map": "/Viessel/frontend3/tree/Clase04/primer-react-app/static/css/main.073c9b0a.css.map",
-    "main.4dd281c6.js.map": "/Viessel/frontend3/tree/Clase04/primer-react-app/static/js/main.4dd281c6.js.map",
-    "787.735ed4fb.chunk.js.map": "/Viessel/frontend3/tree/Clase04/primer-react-app/static/js/787.735ed4fb.chunk.js.map"
+    "main.css": "/Viessel/frontend3/tree/gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/Viessel/frontend3/tree/gh-pages/static/js/main.7dcbecdb.js",
+    "static/js/787.735ed4fb.chunk.js": "/Viessel/frontend3/tree/gh-pages/static/js/787.735ed4fb.chunk.js",
+    "static/media/satisfied.png": "/Viessel/frontend3/tree/gh-pages/static/media/satisfied.dfd3415502656a02a2ff.png",
+    "index.html": "/Viessel/frontend3/tree/gh-pages/index.html",
+    "main.073c9b0a.css.map": "/Viessel/frontend3/tree/gh-pages/static/css/main.073c9b0a.css.map",
+    "main.7dcbecdb.js.map": "/Viessel/frontend3/tree/gh-pages/static/js/main.7dcbecdb.js.map",
+    "787.735ed4fb.chunk.js.map": "/Viessel/frontend3/tree/gh-pages/static/js/787.735ed4fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.4dd281c6.js"
+    "static/js/main.7dcbecdb.js"
   ]
 }
