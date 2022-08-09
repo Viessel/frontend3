@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Viessel/frontend3/tree/gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/Viessel/frontend3/tree/gh-pages/static/js/main.7dcbecdb.js",
-    "static/js/787.735ed4fb.chunk.js": "/Viessel/frontend3/tree/gh-pages/static/js/787.735ed4fb.chunk.js",
-    "static/media/satisfied.png": "/Viessel/frontend3/tree/gh-pages/static/media/satisfied.dfd3415502656a02a2ff.png",
-    "index.html": "/Viessel/frontend3/tree/gh-pages/index.html",
-    "main.073c9b0a.css.map": "/Viessel/frontend3/tree/gh-pages/static/css/main.073c9b0a.css.map",
-    "main.7dcbecdb.js.map": "/Viessel/frontend3/tree/gh-pages/static/js/main.7dcbecdb.js.map",
-    "787.735ed4fb.chunk.js.map": "/Viessel/frontend3/tree/gh-pages/static/js/787.735ed4fb.chunk.js.map"
+    "main.css": "/frontend3/static/css/main.073c9b0a.css",
+    "main.js": "/frontend3/static/js/main.720a8a70.js",
+    "static/js/787.735ed4fb.chunk.js": "/frontend3/static/js/787.735ed4fb.chunk.js",
+    "static/media/satisfied.png": "/frontend3/static/media/satisfied.dfd3415502656a02a2ff.png",
+    "index.html": "/frontend3/index.html",
+    "main.073c9b0a.css.map": "/frontend3/static/css/main.073c9b0a.css.map",
+    "main.720a8a70.js.map": "/frontend3/static/js/main.720a8a70.js.map",
+    "787.735ed4fb.chunk.js.map": "/frontend3/static/js/787.735ed4fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7dcbecdb.js"
+    "static/js/main.720a8a70.js"
   ]
 }
