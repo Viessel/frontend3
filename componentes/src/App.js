@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Perro from './componente/Perro';
 const perros = [
   {
     nombre: "Firulais",
@@ -30,29 +31,14 @@ const perros = [
     tamanio: "Chico"
   }
 ];
-const Perro = ({perro}) => {
-  const {nombre, edad, sexo, raza, tamanio} = perro;
-  return(
-
-    <>
-    <h2>{nombre}</h2>
-    <ul>
-      <li>Edad: {edad}</li>
-      <li>Sexo: {sexo}</li>
-      <li>Raza: {raza}</li>
-      <li>Tamanio: {tamanio}</li>
-    </ul>
-    </>
-  );
-}
-
 
 function App() {
   return (
     <div className="App">
-      {perros.map(unPerro => (
-        <Perro perro={unPerro} />
-      ))}
+      {perros.map(unPerro => {
+        console.log(typeof(unPerro))
+        return(<Perro perro={unPerro} />);
+      })}
     </div>
   );
 }
