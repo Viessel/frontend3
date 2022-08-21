@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+
+.container {
+  background: url("../images/pokedex.jpg") black;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 700px;
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#pokemonImg{
+  width: 300px;
+  margin: 240px 0px 20px;
+}
+#name {
+  width: 350px;
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 16px;
+}
