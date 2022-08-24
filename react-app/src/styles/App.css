@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 3rem auto;
+}
+
+input {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+span {
+  font-size: 12px;
+  color: red;
+} 
+ label {
+   font-size: 24px;
+   margin: 1em auto 0.1em;
+ }
