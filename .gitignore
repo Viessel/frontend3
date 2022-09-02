@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/entregable-frontend-3-junio22/node_modules
+/entregable-frontend-3-junio22/.pnp
+/entregable-frontend-3-junio22/.pnp.js
+
+# testing
+/entregable-frontend-3-junio22/coverage
+
+# production
+/entregable-frontend-3-junio22/build
+
+# misc
+/entregable-frontend-3-junio22/.DS_Store
+/entregable-frontend-3-junio22/.env.local
+/entregable-frontend-3-junio22/.env.development.local
+/entregable-frontend-3-junio22/.env.test.local
+/entregable-frontend-3-junio22/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
